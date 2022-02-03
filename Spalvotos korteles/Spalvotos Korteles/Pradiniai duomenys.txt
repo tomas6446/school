@@ -1,0 +1,15 @@
+10
+Balta         B 1 15
+Melyna        M 2 15
+Zalia         Z 3 12
+Raudona       R 4 10
+Geltona       G 5 10
+Violetine     V 6 12
+Pilka         P 7 10
+Oranzine      O 8 12
+Alyvuogiu     A 9 12
+Juoda         J 10 10
+3 5
+Andrius       B 4 P 7 R 4 B 1 V 6
+Tomas         V 6 A 9 B 6 O 8 P 2
+Evelina       R 4 P 7 R 4 P 7 B 1

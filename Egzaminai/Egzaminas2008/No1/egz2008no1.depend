@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1619612639 source:c:\users\tomas\documents\c++\egz2008no1\main.cpp
+	<iostream>
+	<fstream>
+	<iomanip>
+

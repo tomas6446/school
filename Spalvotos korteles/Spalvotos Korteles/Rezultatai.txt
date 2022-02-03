@@ -1,0 +1,13 @@
+Andrius        4
+Tomas          3
+Evelina        5
+Balta         4 2 11
+Melyna        0 0 15
+Zalia         0 0 12
+Raudona       3 3 7
+Geltona       0 0 10
+Violetine     2 2 10
+Pilka         4 3 6
+Oranzine      1 1 11
+Alyvuogiu     1 1 11
+Juoda         0 0 10
